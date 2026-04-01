@@ -19,14 +19,21 @@ CREATE TABLE unit (
 CREATE TABLE identity_document_type (
     id TINYINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     code VARCHAR(20) NOT NULL,
-    name VARCHAR(50) NOT NULL
+    name VARCHAR(50) NOT NULL,
+    description varchar(255)
 );
-
+-- Должности роли в ассоциации
+CREATE TABLE association_role (
+    id TINYINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    code VARCHAR(20) NOT NULL,
+    name VARCHAR(50) NOT NULL,
+    description varchar(255)
+);
 -- Должности/роли на ферме
 CREATE TABLE farm_role (
     id TINYINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
-    description TEXT
+    description varchar(255)
 );
 
 -- Статусы занятости
@@ -101,11 +108,8 @@ CREATE TABLE association_member (
 CREATE TABLE farm_owner (
     id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     person_id INT UNSIGNED NOT NULL,
-    inn VARCHAR(12),
-    ownership_percentage DECIMAL(5,2) UNSIGNED,
     status ENUM('active', 'inactive', 'archived') NOT NULL DEFAULT 'active',
-    started_at DATE NOT NULL,
-    ended_at DATE,
+    rating  DECIMAL(5,2) UNSIGNED,		
     CONSTRAINT fk_owner_person FOREIGN KEY (person_id) REFERENCES person(id) ON DELETE RESTRICT
 );
 
@@ -140,12 +144,13 @@ CREATE TABLE farm (
     id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     legal_name VARCHAR(200),
+	legal_address VARCHAR(300) NOT NULL,
+	actual_address VARCHAR(300),
     inn VARCHAR(12),
     ogrn VARCHAR(15),
     status ENUM('active', 'inactive', 'suspended', 'archived') NOT NULL DEFAULT 'active',
-    farm_type ENUM('peasant_farm', 'llc', 'individual_entrepreneur', 'personal_subsidiary') NOT NULL DEFAULT 'peasant_farm',
-    legal_address VARCHAR(300) NOT NULL,
-    actual_address VARCHAR(300)
+    farm_type ENUM('peasant_farm', 'llc', 'individual_entrepreneur', 'personal_subsidiary') NOT NULL DEFAULT 'peasant_farm'
+
 );
 
 -- Связь фермы с владельцами
@@ -154,7 +159,6 @@ CREATE TABLE farm_ownership (
     farm_id INT UNSIGNED NOT NULL,
     farm_owner_id INT UNSIGNED NOT NULL,
     ownership_percentage DECIMAL(5,2) UNSIGNED NOT NULL,
-    is_legal_representative BOOLEAN,
     started_at DATE NOT NULL,
     ended_at DATE,
     CONSTRAINT fk_ownership_farm FOREIGN KEY (farm_id) REFERENCES farm(id) ON DELETE CASCADE,
@@ -172,18 +176,35 @@ CREATE TABLE farm_employee (
     dismissal_date DATE,
     salary DECIMAL(10,2) UNSIGNED NOT NULL,
     employment_contract_number VARCHAR(50),
-    work_phone VARCHAR(20),
-    work_email VARCHAR(100) NOT NULL,
     is_primary_workplace BOOLEAN,
     CONSTRAINT fk_employee_person FOREIGN KEY (person_id) REFERENCES person(id) ON DELETE RESTRICT,
     CONSTRAINT fk_employee_farm FOREIGN KEY (farm_id) REFERENCES farm(id) ON DELETE CASCADE,
     CONSTRAINT fk_employee_role FOREIGN KEY (role_id) REFERENCES farm_role(id),
     CONSTRAINT fk_employee_status FOREIGN KEY (employment_status_id) REFERENCES employment_status(id)
 );
-
+-- работник ассоциации
+CREATE TABLE association_employee (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    person_id INT UNSIGNED NOT NULL,
+    association_id INT UNSIGNED NOT NULL,
+    role_id TINYINT UNSIGNED NOT NULL,
+    employment_status_id TINYINT UNSIGNED NOT NULL,
+    hire_date DATE NOT NULL,
+    dismissal_date DATE,
+    salary DECIMAL(10,2) UNSIGNED,
+    contract_number VARCHAR(50),
+    CONSTRAINT fk_assoc_emp_person
+        FOREIGN KEY (person_id) REFERENCES person(id) ON DELETE RESTRICT,
+    CONSTRAINT fk_assoc_emp_association
+        FOREIGN KEY (association_id) REFERENCES farm_association(id) ON DELETE CASCADE,
+    CONSTRAINT fk_assoc_emp_role
+        FOREIGN KEY (role_id) REFERENCES association_role(id),
+    CONSTRAINT fk_assoc_emp_status
+        FOREIGN KEY (employment_status_id) REFERENCES employment_status(id)
+);
 -- Привязка работников к конкретным участкам
 CREATE TABLE employee_plot_assignment (
-    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,	
     farm_employee_id INT UNSIGNED NOT NULL,
     farm_plot_id INT UNSIGNED NOT NULL,
     assignment_type ENUM('primary', 'secondary', 'temporary') NOT NULL DEFAULT 'primary',
@@ -199,7 +220,6 @@ CREATE TABLE farm_plot_assignment (
     farm_id INT UNSIGNED NOT NULL,
     farm_plot_id INT UNSIGNED NOT NULL,
     status ENUM('active', 'inactive', 'suspended') NOT NULL DEFAULT 'active',
-    assigned_at DATE,
     notes TEXT,
     CONSTRAINT pk_farm_plot PRIMARY KEY (farm_id, farm_plot_id),
     CONSTRAINT fk_farm_plot_farm FOREIGN KEY (farm_id) REFERENCES farm(id) ON DELETE CASCADE,
@@ -340,6 +360,7 @@ CREATE TABLE purchase_requisition (
     product_id INT UNSIGNED NOT NULL,
     quantity INT UNSIGNED NOT NULL,
     max_price_per_unit DECIMAL(12,2),
+    offer_date DATE,
     required_date DATE,
     priority INT UNSIGNED,
     status ENUM('draft', 'delivering', 'approved', 'completed', 'cancelled') NOT NULL DEFAULT 'draft',
@@ -347,3 +368,22 @@ CREATE TABLE purchase_requisition (
     CONSTRAINT fk_requisition_farm FOREIGN KEY (farm_id) REFERENCES farm(id) ON DELETE CASCADE,
     CONSTRAINT fk_requisition_product FOREIGN KEY (product_id) REFERENCES product(id) ON DELETE RESTRICT
 );
+/*=================================
+8. Заявки на сбыт от ферм
+===================================*/
+CREATE TABLE sales_requisition (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    farm_id INT UNSIGNED,
+    product_id INT UNSIGNED NOT NULL,
+    quantity INT UNSIGNED NOT NULL,
+    price_per_unit DECIMAL(12,2) UNSIGNED NOT NULL,
+    offer_date DATE NOT NULL,
+    valid_until DATE,
+    status ENUM('draft', 'published', 'matched', 'completed', 'cancelled') NOT NULL DEFAULT 'draft',
+    notes TEXT,
+    CONSTRAINT fk_sales_farm
+        FOREIGN KEY (farm_id) REFERENCES farm(id) ON DELETE CASCADE,
+    CONSTRAINT fk_sales_association
+        FOREIGN KEY (association_id) REFERENCES farm_association(id) ON DELETE CASCADE,
+    CONSTRAINT fk_sales_product
+        FOREIGN KEY (product_id) REFERENCES product(id) ON DELETE RESTRICT,
