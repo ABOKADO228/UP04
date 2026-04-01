@@ -1,0 +1,17 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql-workbench
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: pswd
+      MYSQL_DATABASE: mydb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: pswd
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_workbench_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
