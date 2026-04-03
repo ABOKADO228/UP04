@@ -109,5 +109,31 @@ INSERT INTO farm_plot_type (id, name, description, farm_plot_level, parent_id) V
 
 
 /*=====================================================
-1. Запросы на получение
+2. Запросы на получение
 =======================================================*/
+
+-- "стухшие" заявки на продажу
+SELECT *
+FROM sales_requisition  as sr
+WHERE sr.valid_until < CURDATE()
+order by sr.valid_until;
+
+-- "стухшие" заявки на покупку
+SELECT *
+FROM purchase_requisition  as pr
+WHERE pr.valid_until < CURDATE()
+order by pr.valid_until;
+
+
+-- действующие фермы действующие на данный момент в ассциацииассцоиации
+SELECT f.id as ID, f.leagal_name as `name`, af.notes as notes
+FROM association_farms as af
+JOIN farm as f on af.farm_id = f.id
+WHERE af.`status` = "active" and f.`status` = "active";
+
+-- действующие фермы не действующие на данный момент в ассциацииассцоиации
+SELECT f.id as ID, f.leagal_name as `name`, af.notes as notes
+FROM association_farms as af
+JOIN farm as f on af.farm_id = f.id
+WHERE af.`status` in ("inactive", "suspended") and f.`status` = "active";
+
