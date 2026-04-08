@@ -37,7 +37,7 @@ SELECT
 FROM farm_plot_production_product fpp
 JOIN farm_plot fp ON fp.id = fpp.farm_plot_id
 JOIN product p ON p.id = fpp.product_id
-where p.production_now = 1
+where fpp.production_now = 1
 GROUP BY fp.id, fp.name
 ORDER BY total_quantity DESC;
 	/*============================
@@ -127,17 +127,15 @@ GROUP BY p.id, p.name;
 	 9. Топ 3 месяца по объему заказов (импорта) ресурсов в хозяйства
 	==============================*/
 SELECT
-    p.name AS product_name,
-    GROUP_CONCAT(DISTINCT fs.name SEPARATOR ', ') AS sellers,
-    GROUP_CONCAT(DISTINCT fb.name SEPARATOR ', ') AS buyers
-FROM sales_requisition sr
-JOIN purchase_requisition pr ON pr.product_id = sr.product_id
-JOIN farm fs ON fs.id = sr.farm_id
-JOIN farm fb ON fb.id = pr.farm_id
-JOIN product p ON p.id = sr.product_id
-WHERE sr.farm_id <> pr.farm_id
-GROUP BY p.id, p.name;
-
+    MONTH(po.order_date) AS month_num,
+    SUM(po.total_amount) AS total_orders_amount
+FROM purchase_order po
+JOIN farm_association fa ON fa.id = po.association_id
+JOIN association_farms af ON af.association_id = fa.id
+WHERE af.status = 'active'
+GROUP BY MONTH(po.order_date)
+ORDER BY total_orders_amount DESC
+LIMIT 3;
 	 /*============================
 	 10. Самая (топ 3) урожайная (количество/гектар) производимая продукция (по регионам)
 	==============================*/
