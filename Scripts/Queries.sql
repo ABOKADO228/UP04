@@ -37,6 +37,7 @@ SELECT
 FROM farm_plot_production_product fpp
 JOIN farm_plot fp ON fp.id = fpp.farm_plot_id
 JOIN product p ON p.id = fpp.product_id
+where p.production_now = 1
 GROUP BY fp.id, fp.name
 ORDER BY total_quantity DESC;
 	/*============================
@@ -53,6 +54,7 @@ JOIN farm_owner ow ON ow.id = fo.farm_owner_id
 JOIN person p ON p.id = ow.person_id
 JOIN farm f ON f.id = fo.farm_id
 WHERE fo.ownership_percentage > 50;
+
 	/*============================
 	 5. Рейтинг поставщиков по надёжности (средняя просрочка и доля отменённых заказов)
 	==============================*/
@@ -62,7 +64,8 @@ SELECT
     SUM(CASE WHEN po.status = 'cancelled' THEN 1 ELSE 0 END) / COUNT(*) AS cancel_rate
 FROM supplier s
 JOIN purchase_order po ON po.supplier_id = s.id
-GROUP BY s.id, s.name;
+GROUP BY s.id, s.name
+ORDER BY cancel_rate;
 	/*============================
 	 6. Средний возраст сотрудников по каждому ферм  хозяйству
 	==============================*/
@@ -124,26 +127,27 @@ GROUP BY p.id, p.name;
 	 9. Топ 3 месяца по объему заказов (импорта) ресурсов в хозяйства
 	==============================*/
 SELECT
-    MONTH(po.order_date) AS month_num,
-    SUM(po.total_amount) AS total_orders_amount
-FROM purchase_order po
-JOIN farm_association fa ON fa.id = po.association_id
-JOIN association_farms af ON af.association_id = fa.id
-WHERE af.status = 'active'
-GROUP BY MONTH(po.order_date)
-ORDER BY total_orders_amount DESC
-LIMIT 3;
+    p.name AS product_name,
+    GROUP_CONCAT(DISTINCT fs.name SEPARATOR ', ') AS sellers,
+    GROUP_CONCAT(DISTINCT fb.name SEPARATOR ', ') AS buyers
+FROM sales_requisition sr
+JOIN purchase_requisition pr ON pr.product_id = sr.product_id
+JOIN farm fs ON fs.id = sr.farm_id
+JOIN farm fb ON fb.id = pr.farm_id
+JOIN product p ON p.id = sr.product_id
+WHERE sr.farm_id <> pr.farm_id
+GROUP BY p.id, p.name;
+
 	 /*============================
 	 10. Самая (топ 3) урожайная (количество/гектар) производимая продукция (по регионам)
 	==============================*/
-    SELECT
-    fp.location AS region,
+SELECT 
+    TRIM(REPLACE(SUBSTRING_INDEX(location, ',', 1), 'г.', '')) AS region,
     p.name AS product_name,
     SUM(fpp.quantity) / SUM(fp.area) AS yield_per_hectare
 FROM farm_plot_production_product fpp
 JOIN farm_plot fp ON fp.id = fpp.farm_plot_id
 JOIN product p ON p.id = fpp.product_id
-WHERE fp.area > 0
-GROUP BY fp.location, p.id, p.name
+GROUP BY region, p.id
 ORDER BY yield_per_hectare DESC
 LIMIT 3;
