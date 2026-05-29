@@ -1,0 +1,56 @@
+@startuml
+title Диаграмма компонентов модуля автоматического составления расписания
+
+actor "Пользователь" as User
+
+component "Браузер" as Browser
+
+package "BottleWebProject_С326_TEAM_STEP" {
+    component "app.py\nТочка входа приложения" as App
+    component "routes.py\nМаршрутизация запросов" as Routes
+
+    package "views/" {
+        component "layout.tpl\nОбщий шаблон" as Layout
+        component "coloring_theory.tpl\nСтраница модуля раскраски" as ColoringView
+    }
+
+    package "static/" {
+        component "site.css\nОбщие стили интерфейса" as Css
+        component "graph-input.js\nОбработка ввода графа" as Js
+    }
+
+    package "algorithms/" {
+        component "coloring.py\nАлгоритмический модуль" as Coloring
+        component "Проверка входных данных\nvertices, edges, teacher" as Validation
+        component "Построение графа\nadj[v]" as BuildGraph
+        component "Welsh-Powell\nЖадная раскраска" as WelshPowell
+        component "Локальная оптимизация\nteacher_conflicts(colors)" as Optimization
+        component "Формирование результата\nnum_colors, colors, schedule" as Result
+        component "Генерация случайных данных" as RandomData
+    }
+
+    database "history.txt / history.json\nИстория расчётов" as History
+}
+
+User --> Browser : ввод данных\nи запуск расчёта
+Browser --> App : HTTP-запрос
+App --> Routes : подключение маршрутов
+
+Routes --> ColoringView : отображение страницы /coloring
+ColoringView --> Layout : общий макет
+ColoringView --> Css : оформление
+ColoringView --> Js : ввод данных графа
+
+Routes --> Coloring : передача исходных данных
+Coloring --> Validation
+Validation --> BuildGraph
+BuildGraph --> WelshPowell
+WelshPowell --> Optimization
+Optimization --> Result
+RandomData --> Validation
+
+Result --> Routes : результат расчёта
+Routes --> Browser : HTML-страница\nс расписанием
+Result --> History : сохранение успешного расчёта
+
+@enduml
