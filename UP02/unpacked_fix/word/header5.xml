@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:hdr xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:p w14:paraId="6C42E09D" w14:textId="16623EDA" w:rsidR="006C5526" w:rsidRDefault="006D59A9" w:rsidP="006C5526">
+    <w:pPr>
+      <w:pStyle w:val="a8"/>
+      <w:ind w:firstLine="0"/>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:noProof/>
+      </w:rPr>
+      <mc:AlternateContent>
+        <mc:Choice Requires="wpg">
+          <w:drawing>
+            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="33BF0932" wp14:editId="7134EC83">
+              <wp:simplePos x="0" y="0"/>
+              <wp:positionH relativeFrom="column">
+                <wp:posOffset>-341630</wp:posOffset>
+              </wp:positionH>
+              <wp:positionV relativeFrom="paragraph">
+                <wp:posOffset>-246380</wp:posOffset>
+              </wp:positionV>
+              <wp:extent cx="6588760" cy="10248900"/>
+              <wp:effectExtent l="10795" t="10795" r="10795" b="8255"/>
+              <wp:wrapNone/>
+              <wp:docPr id="1554579564" name="Group 151"/>
+              <wp:cNvGraphicFramePr>
+                <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+              </wp:cNvGraphicFramePr>
+              <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup">
+                  <wpg:wgp>
+                    <wpg:cNvGrpSpPr>
+                      <a:grpSpLocks/>
+                    </wpg:cNvGrpSpPr>
+                    <wpg:grpSpPr bwMode="auto">
+                      <a:xfrm>
+                        <a:off x="0" y="0"/>
+                        <a:ext cx="6588760" cy="10248900"/>
+                        <a:chOff x="1134" y="397"/>
+                        <a:chExt cx="10376" cy="16046"/>
+                      </a:xfrm>
+                    </wpg:grpSpPr>
+                    <wpg:grpSp>
+                      <wpg:cNvPr id="1716909950" name="Group 152"/>
+                      <wpg:cNvGrpSpPr>
+                        <a:grpSpLocks/>
+                      </wpg:cNvGrpSpPr>
+                      <wpg:grpSpPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="1134" y="397"/>
+                          <a:ext cx="10376" cy="16046"/>
+                          <a:chOff x="0" y="0"/>
+                          <a:chExt cx="20000" cy="20000"/>
+                        </a:xfrm>
+                      </wpg:grpSpPr>
+                      <wps:wsp>
+                        <wps:cNvPr id="2102836583" name="Rectangle 153"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="0" y="0"/>
+                            <a:ext cx="20000" cy="20000"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:miter lim="800000"/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="32639605" name="Line 154"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="1093" y="18949"/>
+                            <a:ext cx="2" cy="1040"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="538145979" name="Line 155"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="10" y="18941"/>
+                            <a:ext cx="19967" cy="1"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1807862092" name="Line 156"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="2186" y="18949"/>
+                            <a:ext cx="2" cy="1040"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1205707573" name="Line 157"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="4919" y="18949"/>
+                            <a:ext cx="2" cy="1040"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1894928345" name="Line 158"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="6557" y="18959"/>
+                            <a:ext cx="2" cy="1030"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1713579349" name="Line 159"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="7650" y="18949"/>
+                            <a:ext cx="2" cy="1030"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="2078653987" name="Line 160"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="18905" y="18949"/>
+                            <a:ext cx="4" cy="1040"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1879376898" name="Line 161"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="10" y="19293"/>
+                            <a:ext cx="7621" cy="2"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="2047040471" name="Line 162"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="10" y="19646"/>
+                            <a:ext cx="7621" cy="1"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1026974061" name="Line 163"/>
+                        <wps:cNvCnPr>
+                          <a:cxnSpLocks noChangeShapeType="1"/>
+                        </wps:cNvCnPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="18919" y="19296"/>
+                            <a:ext cx="1071" cy="1"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="line">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln w="15875">
+                            <a:solidFill>
+                              <a:srgbClr val="000000"/>
+                            </a:solidFill>
+                            <a:round/>
+                            <a:headEnd/>
+                            <a:tailEnd/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:noFill/>
+                              </a14:hiddenFill>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:bodyPr/>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1043216613" name="Rectangle 164"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="54" y="19660"/>
+                            <a:ext cx="1000" cy="309"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="3E1E47EE" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                  <w:sz w:val="18"/>
+                                  <w:szCs w:val="18"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>Изм</w:t>
+                              </w:r>
+                              <w:r>
+                                <w:rPr>
+                                  <w:sz w:val="18"/>
+                                  <w:szCs w:val="18"/>
+                                </w:rPr>
+                                <w:t>.</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="663032664" name="Rectangle 165"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="1139" y="19660"/>
+                            <a:ext cx="1001" cy="309"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="2ABA402B" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>Лист</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1493133845" name="Rectangle 166"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="2267" y="19660"/>
+                            <a:ext cx="2573" cy="309"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="463C68C5" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>№ докум.</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="344066442" name="Rectangle 167"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="4983" y="19660"/>
+                            <a:ext cx="1534" cy="309"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="168C1B6B" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>Подп.</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="2019294973" name="Rectangle 168"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="6604" y="19660"/>
+                            <a:ext cx="1000" cy="309"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="1804A726" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>Дата</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1828463688" name="Rectangle 169"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="18949" y="18977"/>
+                            <a:ext cx="1001" cy="309"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="058D1707" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:rPr>
+                                  <w:sz w:val="18"/>
+                                  <w:szCs w:val="18"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                </w:rPr>
+                                <w:t>Лис</w:t>
+                              </w:r>
+                              <w:r>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:sz w:val="20"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>т</w:t>
+                              </w:r>
+                              <w:r>
+                                <w:rPr>
+                                  <w:sz w:val="18"/>
+                                  <w:szCs w:val="18"/>
+                                </w:rPr>
+                                <w:t>т</w:t>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="1346436521" name="Rectangle 170"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="18949" y="19435"/>
+                            <a:ext cx="1001" cy="423"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="10B92031" w14:textId="3403F980" w:rsidR="006C5526" w:rsidRPr="005D4C03" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                              <w:pPr>
+                                <w:pStyle w:val="ac"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:iCs/>
+                                  <w:sz w:val="24"/>
+                                  <w:szCs w:val="24"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                              </w:pPr>
+                              <w:r w:rsidRPr="006C5526">
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:iCs/>
+                                  <w:sz w:val="24"/>
+                                  <w:szCs w:val="24"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:fldChar w:fldCharType="begin"/>
+                              </w:r>
+                              <w:r w:rsidRPr="006C5526">
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:iCs/>
+                                  <w:sz w:val="24"/>
+                                  <w:szCs w:val="24"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:instrText>PAGE   \* MERGEFORMAT</w:instrText>
+                              </w:r>
+                              <w:r w:rsidRPr="006C5526">
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:iCs/>
+                                  <w:sz w:val="24"/>
+                                  <w:szCs w:val="24"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:fldChar w:fldCharType="separate"/>
+                              </w:r>
+                              <w:r w:rsidRPr="006C5526">
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:iCs/>
+                                  <w:sz w:val="24"/>
+                                  <w:szCs w:val="24"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:t>1</w:t>
+                              </w:r>
+                              <w:r w:rsidRPr="006C5526">
+                                <w:rPr>
+                                  <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                  <w:i w:val="0"/>
+                                  <w:iCs/>
+                                  <w:sz w:val="24"/>
+                                  <w:szCs w:val="24"/>
+                                  <w:lang w:val="ru-RU"/>
+                                </w:rPr>
+                                <w:fldChar w:fldCharType="end"/>
+                              </w:r>
+                            </w:p>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                      <wps:wsp>
+                        <wps:cNvPr id="175045932" name="Rectangle 171"/>
+                        <wps:cNvSpPr>
+                          <a:spLocks noChangeArrowheads="1"/>
+                        </wps:cNvSpPr>
+                        <wps:spPr bwMode="auto">
+                          <a:xfrm>
+                            <a:off x="7745" y="19221"/>
+                            <a:ext cx="11075" cy="477"/>
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst/>
+                          </a:prstGeom>
+                          <a:noFill/>
+                          <a:ln>
+                            <a:noFill/>
+                          </a:ln>
+                          <a:extLst>
+                            <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                              <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                                <a:solidFill>
+                                  <a:srgbClr val="FFFFFF"/>
+                                </a:solidFill>
+                              </a14:hiddenFill>
+                            </a:ext>
+                            <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                              <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                                <a:solidFill>
+                                  <a:srgbClr val="000000"/>
+                                </a:solidFill>
+                                <a:miter lim="800000"/>
+                                <a:headEnd/>
+                                <a:tailEnd/>
+                              </a14:hiddenLine>
+                            </a:ext>
+                          </a:extLst>
+                        </wps:spPr>
+                        <wps:txbx>
+                          <w:txbxContent>
+                            <w:p w14:paraId="2914B791" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526"/>
+                          </w:txbxContent>
+                        </wps:txbx>
+                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="12700" tIns="12700" rIns="12700" bIns="12700" anchor="t" anchorCtr="0" upright="1">
+                          <a:noAutofit/>
+                        </wps:bodyPr>
+                      </wps:wsp>
+                    </wpg:grpSp>
+                    <wps:wsp>
+                      <wps:cNvPr id="1189723535" name="Text Box 172"/>
+                      <wps:cNvSpPr txBox="1">
+                        <a:spLocks noChangeArrowheads="1"/>
+                      </wps:cNvSpPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="5121" y="15714"/>
+                          <a:ext cx="5760" cy="720"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln>
+                          <a:noFill/>
+                        </a:ln>
+                        <a:extLst>
+                          <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                            <a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                              <a:solidFill>
+                                <a:srgbClr val="FFFFFF"/>
+                              </a:solidFill>
+                            </a14:hiddenFill>
+                          </a:ext>
+                          <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                            <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="15875">
+                              <a:solidFill>
+                                <a:srgbClr val="000000"/>
+                              </a:solidFill>
+                              <a:miter lim="800000"/>
+                              <a:headEnd/>
+                              <a:tailEnd/>
+                            </a14:hiddenLine>
+                          </a:ext>
+                        </a:extLst>
+                      </wps:spPr>
+                      <wps:txbx>
+                        <w:txbxContent>
+                          <w:p w14:paraId="1AD2FF42" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                            <w:pPr>
+                              <w:pStyle w:val="ac"/>
+                              <w:jc w:val="center"/>
+                              <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:i w:val="0"/>
+                                <w:sz w:val="44"/>
+                                <w:szCs w:val="44"/>
+                                <w:lang w:val="en-US"/>
+                              </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:i w:val="0"/>
+                                <w:sz w:val="44"/>
+                                <w:szCs w:val="44"/>
+                                <w:lang w:val="ru-RU"/>
+                              </w:rPr>
+                              <w:t>УП04.090207.</w:t>
+                            </w:r>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:i w:val="0"/>
+                                <w:sz w:val="44"/>
+                                <w:szCs w:val="44"/>
+                                <w:highlight w:val="yellow"/>
+                                <w:lang w:val="ru-RU"/>
+                              </w:rPr>
+                              <w:t>ХХ</w:t>
+                            </w:r>
+                            <w:r>
+                              <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:i w:val="0"/>
+                                <w:sz w:val="44"/>
+                                <w:szCs w:val="44"/>
+                                <w:lang w:val="ru-RU"/>
+                              </w:rPr>
+                              <w:t>Д</w:t>
+                            </w:r>
+                          </w:p>
+                          <w:p w14:paraId="2B9748B1" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                            <w:pPr>
+                              <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+                                <w:sz w:val="22"/>
+                                <w:szCs w:val="22"/>
+                              </w:rPr>
+                            </w:pPr>
+                          </w:p>
+                        </w:txbxContent>
+                      </wps:txbx>
+                      <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0" upright="1">
+                        <a:noAutofit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </wpg:wgp>
+                </a:graphicData>
+              </a:graphic>
+              <wp14:sizeRelH relativeFrom="page">
+                <wp14:pctWidth>0</wp14:pctWidth>
+              </wp14:sizeRelH>
+              <wp14:sizeRelV relativeFrom="page">
+                <wp14:pctHeight>0</wp14:pctHeight>
+              </wp14:sizeRelV>
+            </wp:anchor>
+          </w:drawing>
+        </mc:Choice>
+        <mc:Fallback>
+          <w:pict>
+            <v:group w14:anchorId="33BF0932" id="Group 151" o:spid="_x0000_s1098" style="position:absolute;margin-left:-26.9pt;margin-top:-19.4pt;width:518.8pt;height:807pt;z-index:251658240" coordorigin="1134,397" coordsize="10376,16046" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#10;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#10;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#10;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#10;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#10;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#10;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#10;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#10;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#10;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#10;IQD1rmSnGwYAANgtAAAOAAAAZHJzL2Uyb0RvYy54bWzsWm1zozYQ/t6Z/geG740RCAkxcW6uubtM&#10;Z67tTS/9AQrGNlOMqCCxc7++qxdATpxrkit2bwZ/YJAFQtp9drX7aM/f7Dald5fLphDV3Ednge/l&#10;VSYWRbWa+39ef/gp8b2m5dWCl6LK5/593vhvLn784Xxbp3ko1qJc5NKDQaom3dZzf922dTqbNdk6&#10;3/DmTNR5BZ1LITe8haZczRaSb2H0TTkLg4DMtkIuaimyvGng33em07/Q4y+Xedb+vlw2eeuVcx/m&#10;1uqr1NcbdZ1dnPN0JXm9LjI7Df6KWWx4UcFH+6He8ZZ7t7J4NNSmyKRoxLI9y8RmJpbLIsv1GmA1&#10;KHiwmispbmu9llW6XdW9mEC0D+T06mGz3+6uZP25/iTN7OH2o8j+akAus229St1+1V6Zh72b7a9i&#10;Afrkt63QC98t5UYNAUvydlq+9718813rZfAniZOEElBDBn0oCHHCAquCbA16Ui8iFGHfg/6IUaOd&#10;bP3evo+CiBL7NgkwUf0znppP6+na6Sn127maW1jGJ+kVCxifIsICxmKYRsU3sAQtZQ/FoRru4ZqV&#10;Rv8rmTxeWieYQwvjaS8TmOogzEEcgH8Qnxamuf2aOMC8mgFBzbch6POa17kGZqMQYkUbgkqTCJQc&#10;daL9A+yPV6syB/FGRrz6hQ5vjQGbV4nLNTyXv5VSbNc5X8D8kNbutnZeUI0GoPo69H1VXDytZdNe&#10;5WLjqZu5L2HqGtj87mPTGsl2jyicV+JDUZbwP0/LytvCfOOExvqNRpTFQvWqzkaubi5L6d1x5YH0&#10;z8J277FN0YIfLIvN3E/6h3iqZPG+WujPtLwozT1gvqy0gRp5KNg26Y1Y3INspDBODpwy3KyF/OJ7&#10;W3Bwc7/5+5bL3PfKXyqQL0MYA3pa3cAxDaEh3Z4bt4dXGQw191vfM7eXrfGit7UsVmv4EtJrr8Rb&#10;8AjLQktsmJWdLEDQzHV0LEYhiRgJ4g6JH4tKgRA7ILysjNPLdpV1ej0ONb6v72vwDnswNK88G4Yo&#10;YGAKytclDDP1aZ52Jh92XhCUYNDVedAOZRaIJcz8iECELcfi7eXYU+tQwjmemuMoQThmlD3Qc3xk&#10;Pfda1nAZtIwYI9RqelLzM0KewzsLSgKakDBgYDVm07b2rEMABTnYhca35xAlEH5M9qxj9VFCCBQG&#10;MQ1oTPsQwipax4JHUzRmCDzKpOgRFa12RIgW8cMdOjmq5yZxDO7ZKDp+aoeOph36OdnqE66boiim&#10;LIL4Z991a2kfzaIpUQnfv1j0pOhn0RKHFR2qLTqOWAIG5e7RkO9DXHg0RUOoraL+w5oGZsFQD1PQ&#10;/Q2aRgnYMyUJA25vT9M6+D2epq1BsxCyrL3cipIQWV5kCrpfHXSHAaYBhgvIck/Nlig7UtCNOjUT&#10;Q/gNydWgZpOkd0zgIy5nSqE1OX7YbwNpRxjFAXmoZpewGz+3Ar/dxdxg0DqvGzSNAgVC7bong361&#10;QaMARyEiBPXJlcPPEpcaG5ufBR5O79CMmOjA1XRHaUeBjhB7fv+RVb+Iod2jbA/zp+3uZqePCKLe&#10;wb2QUkUhVbM3lKptGErVNgylahvfG6VKSBQArQpAsduBix6XcBsbPXCOYrPzg/ixnuKE+Ok954Qf&#10;53gIYRahKEqGlN8FkMvkjQ2gMFSkrEoRHgMo1NyT2mpOCKDeF08AcgAUwYEVuB/ck8AuflyCcGz8&#10;YKaOOA/jBw46bZZ5Qvz03njCj4MfqLCA0BKzgVx2AeQSj2MDCMKe/3cE1HvjCUAOgFASJphEJOmJ&#10;DxdALqE5NoDMgbJluagtlOmOllEQnD4G6v3xhCAXQREmGEpkFD9lOBUHQdRlSo+IIIYjvWHsZWEW&#10;QTjUwewpsrDeIU8IchFE4wAqHiBHPQAgl4AdG0CUqkBeB0EhwHmPgEVA2ECniqKx8U6nAFDvkL8X&#10;AA0ljEeqkkKwj9AwisH+LZqu1Sbys9h5iPYsCNRWKDB57Q46ukKvsUr3YqR8o4JVTJHOgwa3FPfF&#10;o6paTVUbPUn5ypeU772EHDInR+qQ44WoOlm9nUYVlA9rcdlSZ1Wf7LZ14dZQkH3xDwAAAP//AwBQ&#10;SwMEFAAGAAgAAAAhALrzcTjhAAAADAEAAA8AAABkcnMvZG93bnJldi54bWxMj0FvgkAQhe9N+h82&#10;06Q3XZDQIrIYY9qeTBO1SdPbCCMQ2V3CroD/vuOpvb2Z9/Lmm2w96VYM1LvGGgXhPABBprBlYyoF&#10;X8f3WQLCeTQlttaQghs5WOePDxmmpR3NnoaDrwSXGJeigtr7LpXSFTVpdHPbkWHvbHuNnse+kmWP&#10;I5frVi6C4EVqbAxfqLGjbU3F5XDVCj5GHDdR+DbsLuft7ecYf37vQlLq+WnarEB4mvxfGO74jA45&#10;M53s1ZROtApmccTonkWUsODEMrlvThyNX+MFyDyT/5/IfwEAAP//AwBQSwECLQAUAAYACAAAACEA&#10;toM4kv4AAADhAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQA&#10;BgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAAAAAAAAAAAAAAC8BAABfcmVscy8ucmVsc1BLAQItABQA&#10;BgAIAAAAIQD1rmSnGwYAANgtAAAOAAAAAAAAAAAAAAAAAC4CAABkcnMvZTJvRG9jLnhtbFBLAQIt&#10;ABQABgAIAAAAIQC683E44QAAAAwBAAAPAAAAAAAAAAAAAAAAAHUIAABkcnMvZG93bnJldi54bWxQ&#10;SwUGAAAAAAQABADzAAAAgwkAAAAA&#10;">
+              <v:group id="Group 152" o:spid="_x0000_s1099" style="position:absolute;left:1134;top:397;width:10376;height:16046" coordsize="20000,20000" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQCIyHERzAAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA&#10;EIXvhf6HZQre6iYtapO6ikhbehBBLZTehuyYBLOzIbsm8d93DoUeZ+bNe+9brkfXqJ66UHs2kE4T&#10;UMSFtzWXBr5O748voEJEtth4JgM3CrBe3d8tMbd+4AP1x1gqMeGQo4EqxjbXOhQVOQxT3xLL7ew7&#10;h1HGrtS2w0HMXaOfkmSuHdYsCRW2tK2ouByvzsDHgMPmOX3rd5fz9vZzmu2/dykZM3kYN6+gIo3x&#10;X/z3/Wml/iKdZ0mWzYRCmGQBevULAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMA&#10;AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78A&#10;AAAVAQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAiMhxEcwA&#10;AADjAAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAAAD&#10;AAAAAA==&#10;">
+                <v:rect id="Rectangle 153" o:spid="_x0000_s1100" style="position:absolute;width:20000;height:20000;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQB6gWewygAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/NasMw&#10;EITvhb6D2EIvpZFik+C6kU0JBAIhkJ8+wGJtbWNrZSw5cd++KhR6HGbmG2ZTzrYXNxp961jDcqFA&#10;EFfOtFxr+LzuXjMQPiAb7B2Thm/yUBaPDxvMjbvzmW6XUIsIYZ+jhiaEIZfSVw1Z9As3EEfvy40W&#10;Q5RjLc2I9wi3vUyUWkuLLceFBgfaNlR1l8lq2L6psKNjejoc0omPrpuGffei9fPT/PEOItAc/sN/&#10;7b3RkCxVkqXrVZbC76f4B2TxAwAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA&#10;AAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAA&#10;FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAHqBZ7DKAAAA&#10;4wAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD+AgAA&#10;AAA=&#10;" filled="f" strokeweight="1.25pt"/>
+                <v:line id="Line 154" o:spid="_x0000_s1101" style="position:absolute;visibility:visible;mso-wrap-style:square" from="1093,18949" to="1095,19989" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQAq3TzkyAAAAOEAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ra8Iw&#10;FIXfB/sP4Q58m6kWw6xGGTJhMBhb9Qdcm2tbTG5KE2337xdhsMfDOec7nPV2dFbcqA+tZw2zaQaC&#10;uPKm5VrD8bB/fgERIrJB65k0/FCA7ebxYY2F8QN/062MtUgQDgVqaGLsCilD1ZDDMPUdcfLOvncY&#10;k+xraXocEtxZOc8yJR22nBYa7GjXUHUpr07D8FXux88Pb9zR71Rr1eyUv1mtJ0/j6wpEpDH+h//a&#10;70ZDPlf5UmULuD9Kb0BufgEAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAA&#10;AAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUB&#10;AAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQAq3TzkyAAAAOEA&#10;AAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/AIAAAAA&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 155" o:spid="_x0000_s1102" style="position:absolute;visibility:visible;mso-wrap-style:square" from="10,18941" to="19977,18942" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQDBqiCMygAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RasJA&#10;FETfhf7Dcgt9q5vUGjW6SpEKhYJo9AOu2WsSuns3ZLcm/ftuoeDjMDNnmNVmsEbcqPONYwXpOAFB&#10;XDrdcKXgfNo9z0H4gKzROCYFP+Rhs34YrTDXrucj3YpQiQhhn6OCOoQ2l9KXNVn0Y9cSR+/qOosh&#10;yq6SusM+wq2RL0mSSYsNx4UaW9rWVH4V31ZBfyh2w/7TaXt226wxWXqZvBulnh6HtyWIQEO4h//b&#10;H1rBdDJPX6eL2QL+LsU7INe/AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA&#10;AAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAA&#10;FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAMGqIIzKAAAA&#10;4gAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD+AgAA&#10;AAA=&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 156" o:spid="_x0000_s1103" style="position:absolute;visibility:visible;mso-wrap-style:square" from="2186,18949" to="2188,19989" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQD+OlCixgAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fS8Mw&#10;EH8f+B3CCb5tSSt0tS4dMhwIgsy6D3A2Z1tMLqWJa/32RhB8vN//2+0XZ8WFpjB41pBtFAji1puB&#10;Ow3nt+O6BBEiskHrmTR8U4B9fbXaYWX8zK90aWInUgiHCjX0MY6VlKHtyWHY+JE4cR9+chjTOXXS&#10;TDincGdlrlQhHQ6cGnoc6dBT+9l8OQ3zqTkuL8/euLM/FIMtsvfbR6v1zfXycA8i0hL/xX/uJ5Pm&#10;l2pbFrm6y+H3pwSArH8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#10;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#10;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEA/jpQosYAAADjAAAA&#10;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 157" o:spid="_x0000_s1104" style="position:absolute;visibility:visible;mso-wrap-style:square" from="4919,18949" to="4921,19989" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQBLO+WzxgAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw&#10;EH8X9h3CDfamiYrt6IwyZMJAkFn9ALfm1pYll9Jktvv2iyDs8X7/b70dnRVX6kPrWcN8pkAQV960&#10;XGu4nPfTZxAhIhu0nknDLwXYbh4mayyMH/hE1zLWIoVwKFBDE2NXSBmqhhyGme+IE/fle4cxnX0t&#10;TY9DCndWLpTKpMOWU0ODHe0aqr7LH6dh+Cj34/Hgjbv4XdbabP65fLNaPz2Ory8gIo3xX3x3v5s0&#10;f6FWucpX+RJuPyUA5OYPAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#10;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#10;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEASzvls8YAAADjAAAA&#10;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 158" o:spid="_x0000_s1105" style="position:absolute;visibility:visible;mso-wrap-style:square" from="6557,18959" to="6559,19989" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQC5LNjtxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/dasIw&#10;FL4X9g7hDHZnU/9KrUYZMmEwkK3zAc6aY1uWnJQms93bLwPBy/P9n+1+tEZcqfetYwWzJAVBXDnd&#10;cq3g/Hmc5iB8QNZoHJOCX/Kw3z1MtlhoN/AHXctQixjCvkAFTQhdIaWvGrLoE9cRR+7ieoshnn0t&#10;dY9DDLdGztM0kxZbjg0NdnRoqPouf6yC4b08jqc3p+3ZHbLWZLOvxYtR6ulxfN6ACDSGu/jmftVx&#10;fr5eruf5YrmC/58iAHL3BwAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA&#10;AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA&#10;AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhALks2O3HAAAA4wAA&#10;AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 159" o:spid="_x0000_s1106" style="position:absolute;visibility:visible;mso-wrap-style:square" from="7650,18949" to="7652,19979" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQBXaHgqxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fS8Mw&#10;EH8f+B3CCb65tNa1ri4bMhwIg6F1H+BszraYXEoT1+7bL4Kwx/v9v9VmskacaPCdYwXpPAFBXDvd&#10;caPg+Lm7fwLhA7JG45gUnMnDZn0zW2Gp3cgfdKpCI2II+xIVtCH0pZS+bsmin7ueOHLfbrAY4jk0&#10;Ug84xnBr5EOS5NJix7GhxZ62LdU/1a9VML5Xu+mwd9oe3TbvTJ5+Za9Gqbvb6eUZRKApXMX/7jcd&#10;5xdptiiW2eMS/n6KAMj1BQAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA&#10;AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA&#10;AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAFdoeCrHAAAA4wAA&#10;AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 160" o:spid="_x0000_s1107" style="position:absolute;visibility:visible;mso-wrap-style:square" from="18905,18949" to="18909,19989" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQDVh6DCygAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RasJA&#10;FETfC/2H5RZ8qxsVYxpdpUgFQSg29QNus9ckdPduyG5N/HtXEPo4zMwZZrUZrBEX6nzjWMFknIAg&#10;Lp1uuFJw+t69ZiB8QNZoHJOCK3nYrJ+fVphr1/MXXYpQiQhhn6OCOoQ2l9KXNVn0Y9cSR+/sOosh&#10;yq6SusM+wq2R0yRJpcWG40KNLW1rKn+LP6ugPxa74fPgtD25bdqYdPIz+zBKjV6G9yWIQEP4Dz/a&#10;e61gmiyydD57yxZw/xT/gFzfAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA&#10;AAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAA&#10;FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhANWHoMLKAAAA&#10;4wAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD+AgAA&#10;AAA=&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 161" o:spid="_x0000_s1108" style="position:absolute;visibility:visible;mso-wrap-style:square" from="10,19293" to="7631,19295" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQCDtbO5ywAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RasMw&#10;DEXfB/0Ho8HeVqcrpGlWt5SywmAw1rQfoMZaEmbLIfaa7O+nh8EepXt179FmN3mnbjTELrCBxTwD&#10;RVwH23Fj4HI+PhagYkK26AKTgR+KsNvO7jZY2jDyiW5VapSEcCzRQJtSX2od65Y8xnnoiUX7DIPH&#10;JOPQaDvgKOHe6acsy7XHjqWhxZ4OLdVf1bc3MH5Ux+n9LVh/CYe8c/niunxxxjzcT/tnUImm9G/+&#10;u361gl+s1stVXqwFWn6SBejtLwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA&#10;AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA&#10;ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQCDtbO5ywAA&#10;AOMAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA&#10;AAAA&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 162" o:spid="_x0000_s1109" style="position:absolute;visibility:visible;mso-wrap-style:square" from="10,19646" to="7631,19647" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQB66R/wxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9da8Iw&#10;FH0f7D+EO9jbTKpSpRplyITBYMzqD7g217aY3JQm2u7fL4PBXg4czhdnvR2dFXfqQ+tZQzZRIIgr&#10;b1quNZyO+5cliBCRDVrPpOGbAmw3jw9rLIwf+ED3MtYilXAoUEMTY1dIGaqGHIaJ74iTdvG9w5ho&#10;X0vT45DKnZVTpXLpsOW00GBHu4aqa3lzGoavcj9+fnjjTn6XtzbPzrM3q/Xz0/i6AhFpjP/mv/S7&#10;0TBV84WaJ8jg91P6A3LzAwAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA&#10;AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA&#10;AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAHrpH/DHAAAA4wAA&#10;AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=&#10;" strokeweight="1.25pt"/>
+                <v:line id="Line 163" o:spid="_x0000_s1110" style="position:absolute;visibility:visible;mso-wrap-style:square" from="18919,19296" to="19990,19297" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQC51bf/xgAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fS8Mw&#10;EH8X9h3CDXxzSadk2i0bMhwIgmi3D3BrzraYXEoT1/rtjSD4eL//t9lN3okLDbELbKBYKBDEdbAd&#10;NwZOx8PNPYiYkC26wGTgmyLstrOrDZY2jPxOlyo1IodwLNFAm1JfShnrljzGReiJM/cRBo8pn0Mj&#10;7YBjDvdOLpXS0mPHuaHFnvYt1Z/VlzcwvlWH6fUlWH8Ke905XZxvn5wx1/PpcQ0i0ZT+xX/uZ5vn&#10;q6V+WN0pXcDvTxkAuf0BAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#10;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#10;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAudW3/8YAAADjAAAA&#10;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#10;" strokeweight="1.25pt"/>
+                <v:rect id="Rectangle 164" o:spid="_x0000_s1111" style="position:absolute;left:54;top:19660;width:1000;height:309;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQBQDEdmxgAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw&#10;EH8f7DuEG/g202gpoxplG2z4ptN9gLM522JzKUnW1m+/DIQ93u//rbeT7cRAPrSONah5BoK4cqbl&#10;WsP36eP5BUSIyAY7x6ThRgG2m8eHNZbGjfxFwzHWIoVwKFFDE2NfShmqhiyGueuJE3dx3mJMp6+l&#10;8TimcNvJRZYV0mLLqaHBnt4bqq7HH6thP8bWqfOkilN+8G+ffj/mt0Hr2dP0ugIRaYr/4rt7Z9L8&#10;LF8uVFGoJfz9lACQm18AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#10;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#10;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAUAxHZsYAAADjAAAA&#10;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="3E1E47EE" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:jc w:val="center"/>
+                          <w:rPr>
+                            <w:sz w:val="18"/>
+                            <w:szCs w:val="18"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>Изм</w:t>
+                        </w:r>
+                        <w:r>
+                          <w:rPr>
+                            <w:sz w:val="18"/>
+                            <w:szCs w:val="18"/>
+                          </w:rPr>
+                          <w:t>.</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 165" o:spid="_x0000_s1112" style="position:absolute;left:1139;top:19660;width:1001;height:309;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQAV/iMCyAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/BasMw&#10;EETvhf6D2EJujezEiOJECW2hJbekST9gY21sE2tlJNV2/r4qBHocZuYNs95OthMD+dA61pDPMxDE&#10;lTMt1xq+Tx/PLyBCRDbYOSYNNwqw3Tw+rLE0buQvGo6xFgnCoUQNTYx9KWWoGrIY5q4nTt7FeYsx&#10;SV9L43FMcNvJRZYpabHltNBgT+8NVdfjj9WwH2Pr8vOUq1Nx8G+ffj8Wt0Hr2dP0ugIRaYr/4Xt7&#10;ZzQotcyWC6UK+LuU7oDc/AIAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAA&#10;AAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUB&#10;AAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQAV/iMCyAAAAOIA&#10;AAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/AIAAAAA&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="2ABA402B" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:jc w:val="center"/>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>Лист</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 166" o:spid="_x0000_s1113" style="position:absolute;left:2267;top:19660;width:2573;height:309;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQAp9LXBxwAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw&#10;EH8f7DuEG/g2066daGeUTVB8c9N9gLO5tWXNpSSxrd/eCIM93u//LdejaUVPzjeWFaTTBARxaXXD&#10;lYLv0/Z5DsIHZI2tZVJwJQ/r1ePDEgttB/6i/hgqEUPYF6igDqErpPRlTQb91HbEkfuxzmCIp6uk&#10;djjEcNPKlySZSYMNx4YaO9rUVP4eL0bBYQiNTc9jOjvln+5j5w5Dfu2VmjyN728gAo3hX/zn3us4&#10;P19kaZbN81e4/xQBkKsbAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA&#10;AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA&#10;AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhACn0tcHHAAAA4wAA&#10;AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="463C68C5" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:jc w:val="center"/>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>№ докум.</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 167" o:spid="_x0000_s1114" style="position:absolute;left:4983;top:19660;width:1534;height:309;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQDsThkiyAAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/NasMw&#10;EITvgb6D2EJviexUmOBGCW2hpbf89QG21tY2tVZGUm3n7aNAIMdhZr5h1tvJdmIgH1rHGvJFBoK4&#10;cqblWsP36WO+AhEissHOMWk4U4Dt5mG2xtK4kQ80HGMtEoRDiRqaGPtSylA1ZDEsXE+cvF/nLcYk&#10;fS2NxzHBbSeXWVZIiy2nhQZ7em+o+jv+Ww27MbYu/5ny4qT2/u3T70Z1HrR+epxeX0BEmuI9fGt/&#10;GQ3PSmVFodQSrpfSHZCbCwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAA&#10;AAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUB&#10;AAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQDsThkiyAAAAOIA&#10;AAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/AIAAAAA&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="168C1B6B" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:jc w:val="center"/>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>Подп.</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 168" o:spid="_x0000_s1115" style="position:absolute;left:6604;top:19660;width:1000;height:309;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQBzg7IcygAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/BasMw&#10;EETvhfyD2EBvjWzHJLEbJaSBlt7SJv2ArbW1TayVkVTb+fuqUOhxmJk3zHY/mU4M5HxrWUG6SEAQ&#10;V1a3XCv4uDw/bED4gKyxs0wKbuRhv5vdbbHUduR3Gs6hFhHCvkQFTQh9KaWvGjLoF7Ynjt6XdQZD&#10;lK6W2uEY4aaTWZKspMGW40KDPR0bqq7nb6PgNIbWpp9Turrkb+7pxZ3G/DYodT+fDo8gAk3hP/zX&#10;ftUKsiQtsiIv1kv4/RT/gNz9AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAA&#10;AAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAA&#10;FQEAAAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAHODshzKAAAA&#10;4wAAAA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD+AgAA&#10;AAA=&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="1804A726" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>Дата</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 169" o:spid="_x0000_s1116" style="position:absolute;left:18949;top:18977;width:1001;height:309;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQCP/doEyQAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9BT8Mw&#10;DIXvSPyHyEjcWNpRVVVZNgESiNtg2w8wjddWa5wqCW337/EBiaP9nt/7vNktblAThdh7NpCvMlDE&#10;jbc9twZOx7eHClRMyBYHz2TgShF229ubDdbWz/xF0yG1SkI41migS2mstY5NRw7jyo/Eop19cJhk&#10;DK22AWcJd4NeZ1mpHfYsDR2O9NpRczn8OAP7OfU+/17y8lh8hpf3sJ+L62TM/d3y/AQq0ZL+zX/X&#10;H1bwq3VVlI9lJdDykyxAb38BAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAA&#10;AAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAV&#10;AQAACwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAj/3aBMkAAADj&#10;AAAADwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAP0CAAAA&#10;AA==&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="058D1707" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:rPr>
+                            <w:sz w:val="18"/>
+                            <w:szCs w:val="18"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                          </w:rPr>
+                          <w:t>Лис</w:t>
+                        </w:r>
+                        <w:r>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:sz w:val="20"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>т</w:t>
+                        </w:r>
+                        <w:r>
+                          <w:rPr>
+                            <w:sz w:val="18"/>
+                            <w:szCs w:val="18"/>
+                          </w:rPr>
+                          <w:t>т</w:t>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 170" o:spid="_x0000_s1117" style="position:absolute;left:18949;top:19435;width:1001;height:423;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQCcZRAgxgAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9fa8Iw&#10;EH8f7DuEG/g202pXRjXKJih7c+o+wNnc2rLmUpLY1m9vBoKP9/t/y/VoWtGT841lBek0AUFcWt1w&#10;peDntH19B+EDssbWMim4kof16vlpiYW2Ax+oP4ZKxBD2BSqoQ+gKKX1Zk0E/tR1x5H6tMxji6Sqp&#10;HQ4x3LRyliS5NNhwbKixo01N5d/xYhTsh9DY9Dym+Sn7dp87tx+ya6/U5GX8WIAINIaH+O7+0nH+&#10;PMuzef42S+H/pwiAXN0AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#10;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#10;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAnGUQIMYAAADjAAAA&#10;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="10B92031" w14:textId="3403F980" w:rsidR="006C5526" w:rsidRPr="005D4C03" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                        <w:pPr>
+                          <w:pStyle w:val="ac"/>
+                          <w:jc w:val="center"/>
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:iCs/>
+                            <w:sz w:val="24"/>
+                            <w:szCs w:val="24"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="006C5526">
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:iCs/>
+                            <w:sz w:val="24"/>
+                            <w:szCs w:val="24"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:fldChar w:fldCharType="begin"/>
+                        </w:r>
+                        <w:r w:rsidRPr="006C5526">
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:iCs/>
+                            <w:sz w:val="24"/>
+                            <w:szCs w:val="24"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:instrText>PAGE   \* MERGEFORMAT</w:instrText>
+                        </w:r>
+                        <w:r w:rsidRPr="006C5526">
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:iCs/>
+                            <w:sz w:val="24"/>
+                            <w:szCs w:val="24"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:fldChar w:fldCharType="separate"/>
+                        </w:r>
+                        <w:r w:rsidRPr="006C5526">
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:iCs/>
+                            <w:sz w:val="24"/>
+                            <w:szCs w:val="24"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:t>1</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="006C5526">
+                          <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                            <w:i w:val="0"/>
+                            <w:iCs/>
+                            <w:sz w:val="24"/>
+                            <w:szCs w:val="24"/>
+                            <w:lang w:val="ru-RU"/>
+                          </w:rPr>
+                          <w:fldChar w:fldCharType="end"/>
+                        </w:r>
+                      </w:p>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+                <v:rect id="Rectangle 171" o:spid="_x0000_s1118" style="position:absolute;left:7745;top:19221;width:11075;height:477;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQAxMYf4xgAAAOIAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/dTsIw&#10;FL4n8R2aY+IddMPx46AQNcF4hwIPcFiP28J6urR1G29PTUy4/PL9r7eDaURHzteWFaSTBARxYXXN&#10;pYLTcTdegvABWWNjmRRcycN28zBaY65tz9/UHUIpYgj7HBVUIbS5lL6oyKCf2JY4cj/WGQwRulJq&#10;h30MN42cJslcGqw5NlTY0ntFxeXwaxTs+1Db9Dyk82P25d4+3L7Prp1ST4/D6wpEoCHcxf/uTx3n&#10;L2ZJNnt5nsLfpYhBbm4AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#10;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#10;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAMTGH+MYAAADiAAAA&#10;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                  <v:textbox inset="1pt,1pt,1pt,1pt">
+                    <w:txbxContent>
+                      <w:p w14:paraId="2914B791" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526"/>
+                    </w:txbxContent>
+                  </v:textbox>
+                </v:rect>
+              </v:group>
+              <v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+                <v:stroke joinstyle="miter"/>
+                <v:path gradientshapeok="t" o:connecttype="rect"/>
+              </v:shapetype>
+              <v:shape id="Text Box 172" o:spid="_x0000_s1119" type="#_x0000_t202" style="position:absolute;left:5121;top:15714;width:5760;height:720;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#10;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#10;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#10;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#10;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#10;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#10;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#10;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#10;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#10;AAD//wMAUEsDBBQABgAIAAAAIQCmfxTcywAAAOMAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9LS8NA&#10;EL4L/odlBC+l3fSlMXZbxFJQVIpR1OOQHZPQ7GzIbpO0v94tFDzO957FqjeVaKlxpWUF41EEgjiz&#10;uuRcwefHZhiDcB5ZY2WZFBzIwWp5ebHARNuO36lNfS5CCLsEFRTe14mULivIoBvZmjhwv7Yx6MPZ&#10;5FI32IVwU8lJFN1IgyWHhgJreiwo26V7o6B9i2Zfr9n3YT/YrH+e4+3avXRHpa6v+od7EJ56/y8+&#10;u590mD+O724n0/l0DqefAgBy+QcAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAA&#10;AAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAA&#10;ABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQCmfxTcywAA&#10;AOMAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/wIA&#10;AAAA&#10;" filled="f" stroked="f" strokeweight="1.25pt">
+                <v:textbox>
+                  <w:txbxContent>
+                    <w:p w14:paraId="1AD2FF42" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                      <w:pPr>
+                        <w:pStyle w:val="ac"/>
+                        <w:jc w:val="center"/>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                          <w:b/>
+                          <w:i w:val="0"/>
+                          <w:sz w:val="44"/>
+                          <w:szCs w:val="44"/>
+                          <w:lang w:val="en-US"/>
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                          <w:i w:val="0"/>
+                          <w:sz w:val="44"/>
+                          <w:szCs w:val="44"/>
+                          <w:lang w:val="ru-RU"/>
+                        </w:rPr>
+                        <w:t>УП04.090207.</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                          <w:i w:val="0"/>
+                          <w:sz w:val="44"/>
+                          <w:szCs w:val="44"/>
+                          <w:highlight w:val="yellow"/>
+                          <w:lang w:val="ru-RU"/>
+                        </w:rPr>
+                        <w:t>ХХ</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                          <w:i w:val="0"/>
+                          <w:sz w:val="44"/>
+                          <w:szCs w:val="44"/>
+                          <w:lang w:val="ru-RU"/>
+                        </w:rPr>
+                        <w:t>Д</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p w14:paraId="2B9748B1" w14:textId="77777777" w:rsidR="006C5526" w:rsidRDefault="006C5526" w:rsidP="006C5526">
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+                          <w:sz w:val="22"/>
+                          <w:szCs w:val="22"/>
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:txbxContent>
+                </v:textbox>
+              </v:shape>
+            </v:group>
+          </w:pict>
+        </mc:Fallback>
+      </mc:AlternateContent>
+    </w:r>
+  </w:p>
+</w:hdr>
